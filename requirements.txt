@@ -1,0 +1,8 @@
+asgiref==3.10.0
+django==4.2.26
+django-allauth==65.13.0
+django-crispy-forms==2.5
+pillow==11.3.0
+sqlparse==0.5.3
+typing-extensions==4.15.0
+tzdata==2025.2
