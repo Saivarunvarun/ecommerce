@@ -20,7 +20,7 @@ ALLOWED_HOSTS = ['.onrender.com', 'localhost', '127.0.0.1']
 
 # ✅ Add your trusted origins for CSRF protection
 CSRF_TRUSTED_ORIGINS = [
-    'https://ecommerce-3-4sbj.onrender.com',
+    'https://*.onrender.com',
 ]
 
 # Application definition
